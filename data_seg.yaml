@@ -1,0 +1,8 @@
+path: C:\otonom_surus_proje2\Segmentasyon_Seti_20K
+train: images/train
+val: images/val
+
+names:
+  0: vehicle
+  1: drivable_area
+  2: lanes
